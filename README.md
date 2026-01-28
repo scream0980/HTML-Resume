@@ -11,9 +11,8 @@ Clone the repository
 ```bash
 git clone https://github.com/scream0980/HTML-Resume.git
 
+
 ---
 
 ## Screenshot
-<img width="730" height="834" alt="image" src="https://github.com/user-attachments/assets/83b5d2a4-7c4c-4ee8-8946-451688ed900a" />
-
-
+![image alt](https://github.com/scream0980/HTML-Resume/blob/663bb957c9984d82ff2c1c713d7688abc3c93c88/a74b8b9d-c64d-401e-bcad-8ed299aadd6d.png) 
